@@ -1,0 +1,15 @@
+{
+ "short_name": "ArgeliaFormulario",
+ "name": "ArgeliaFormulario",
+ "start_url": "/index.html",
+ "display": "standalone",
+ "background_color": "#00FFFF",
+ "theme_color": "#099D0B",
+ "icons": [
+   {
+     "src": "img/logo.png",
+     "sizes": "1024x1024",
+     "type": "image/png"
+   }
+ ]
+}
